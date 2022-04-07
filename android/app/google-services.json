@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441416228547",
+    "project_id": "alcopinion",
+    "storage_bucket": "alcopinion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441416228547:android:c4c6daf46dccda6b22cc76",
+        "android_client_info": {
+          "package_name": "com.example.alcopinion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441416228547-9r7ejg81qig4jba9d7b32hflec46urqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb5aMrbCm_bFpOOeXri-QDPCvWGBQgQck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441416228547-9r7ejg81qig4jba9d7b32hflec46urqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
